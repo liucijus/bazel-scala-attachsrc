@@ -1,0 +1,10 @@
+directories:
+  src
+  -dep1
+  -dep2
+
+targets:
+  //:mainlib
+
+additional_languages:
+  scala
