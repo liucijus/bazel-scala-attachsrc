@@ -1,5 +1,7 @@
 directories:
+  .
   src
+  -dep3
   -dep1
   -dep2
 

@@ -13,5 +13,6 @@ scala_import(
     exports = [
         "//dep1",
         "//dep2/dir1/dir2/dir3/com/example/dep2",
+        "//dep3/f1/f2/f3/com/example3",
     ],
 )
