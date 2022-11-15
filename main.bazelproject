@@ -1,12 +1,15 @@
 directories:
   .
   src
-  -dep3
   -dep1
   -dep2
+  -dep3
+  -dep4
+  -dep5
 
 targets:
-  //:mainlib
+  //:mainlib_scala
+  //:mainlib_java
 
 additional_languages:
   scala
